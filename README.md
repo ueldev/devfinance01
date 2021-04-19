@@ -1,6 +1,6 @@
 # devfinance01
 primeiro app/site de finanças. *em andamento*
-/* ///////////////////////////////////////// */
+
 
 <!DOCTYPE html>
 <html lang="en">
